@@ -1,0 +1,16 @@
+#search-bar {
+    text-align: center;
+    line-height: 150px;
+}
+
+#mealsDiv {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    text-align: center;
+    background-color: lightgrey;
+    color: darkred;
+}
+
+#meal-details {
+    text-align: center;
+}
